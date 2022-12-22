@@ -5,9 +5,6 @@ I am Alok.I am currently a 2nd Year CSE student at KIIT UNIVERSITY.I am currentl
 
 <h4> GitHub Stats</h2>
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=akjalok&theme=react-dark&hide_border=true&area=true">
-  </p>  
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=akjalok&count_private=true&show_icons=true&theme=tokyonight">
 </p>  
 <p align="center">
